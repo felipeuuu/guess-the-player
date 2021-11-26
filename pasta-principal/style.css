@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: rgb(230, 214, 214);
+}
+
+#img-card {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    
+}
+
+#button-div {
+    margin-top: 50px;
+}
